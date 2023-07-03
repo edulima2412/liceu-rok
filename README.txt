@@ -3849,3 +3849,7 @@ R: Salzburgo (Áustria)
 Questão 960
 Qual continente foi o berço da civilização Maia?
 R: As Américas
+
+Questão 961
+Na página VISUALIZAÇÃO DO COMANDANTE, que buffs os comandantes atuam como "Guarda de Ferro" recebem?
+R: Saude de Tropas +1%
