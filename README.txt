@@ -1,4 +1,4 @@
-🆕 Última atualização: 03 de Julho de 2023
+🆕 Última atualização: 05 de Julho de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3853,3 +3853,7 @@ R: As Américas
 Questão 961
 Na página VISUALIZAÇÃO DO COMANDANTE, que buffs os comandantes atuam como "Guarda de Ferro" recebem?
 R: Saude de Tropas +1%
+
+Questão 962
+Qual é o efeito do acessório "Vingança"?
+R: Dano de Contra-ataque +8%
