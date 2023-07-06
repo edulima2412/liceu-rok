@@ -3703,7 +3703,7 @@ Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda 
 R: 15
 
 Questão 924
-Em RoK, qual é o apelido da comandante Constance?
+Em RoK, qual é o apelido da comandante Constânça?
 R: Rainha da Sicília
 
 Questão 925
