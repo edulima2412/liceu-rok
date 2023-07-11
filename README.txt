@@ -1,4 +1,4 @@
-🆕 Última atualização: 07 de Julho de 2023
+🆕 Última atualização: 11 de Julho de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3861,3 +3861,7 @@ R: Dano de Contra-ataque +8%
 Questão 963
 A pintura de Sandro Botticelli "Vênus e Marte" é famosa pos suas cores vivas e belas figuras. Em qual galeria esta pintura está alojada no momento?
 R: Na National Gallery em Londres
+
+Questão 964
+A decoração da cidade "Portão de Ishtar" é uma homenagem a qual das seguintes civilizações?
+R: Babilônia
