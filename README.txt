@@ -3865,3 +3865,7 @@ R: Na National Gallery em Londres
 Questão 964
 A decoração da cidade "Portão de Ishtar" é uma homenagem a qual das seguintes civilizações?
 R: Babilônia
+
+Questão 965
+Que comandante é conhecida como a Dama dos Mércios?
+R: Aetheflaed
