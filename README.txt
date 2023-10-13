@@ -421,7 +421,7 @@ Qual dos seguintes é considerado uma fonte de energia?
 R: Petróleo
 
 Questão 105
-Que estadista proeminente serviu como o primeiro general do shogunato Edo no final do período dos Estados Beligerantes do Japão?
+Que estadista proeminente serviu como o primeiro Shogun do shogunato Edo no final do período dos Estados Beligerantes do Japão?
 R: Tokugawa leyasu
 
 Questão 106
