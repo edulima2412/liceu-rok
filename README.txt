@@ -3873,3 +3873,7 @@ R: Aetheflaed
 Questão 966
 Durante um eclipse solar, o objeto celestial que fica entre o Sol e a Terra é?
 R: A Lua
+
+Questão 967
+No RoK, qual capítulo das Crônicas do Reino exige a exploração completa de todos os blocos de névoa do reino?
+R: A Longa Paz
