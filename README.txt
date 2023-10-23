@@ -1,4 +1,4 @@
-🆕 Última atualização: 11 de Julho de 2023
+🆕 Última atualização: 23 de Outubro de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3869,3 +3869,7 @@ R: Babilônia
 Questão 965
 Que comandante é conhecida como a Dama dos Mércios?
 R: Aetheflaed
+
+Questão 966
+Durante um eclipse solar, o objeto celestial que fica entre o Sol e a Terra é?
+R: A Lua
