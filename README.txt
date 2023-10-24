@@ -1,4 +1,4 @@
-🆕 Última atualização: 23 de Outubro de 2023
+🆕 Última atualização: 24 de Outubro de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3877,3 +3877,7 @@ R: A Lua
 Questão 967
 No RoK, qual capítulo das Crônicas do Reino exige a exploração completa de todos os blocos de névoa do reino?
 R: A Longa Paz
+
+Questão 968
+As atividades físicas diárias do povo maia NÂO incluíam?
+R: Arremesso de pinguim
