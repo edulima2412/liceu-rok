@@ -3889,3 +3889,7 @@ R: Tutemés III
 Questão 970
 Qual é a meia-vida do lodo-129, um isótopo radioativo produzido por reatores nucleares?
 R: 15,7 milhões de anos
+
+Questão 971
+Que planeta no sistema solar está mais perto do Sol?
+R: Mércurio
