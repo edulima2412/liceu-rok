@@ -3897,3 +3897,7 @@ R: Mércurio
 Questão 972
 Qual país não está na Europa?
 R: Egito
+
+Questão 973
+Qual dos seguintes NÃO ocorreu durante a Guerra Greco-Persas?
+R: A Batalha de Azincourt
