@@ -3885,3 +3885,7 @@ R: Arremesso de pinguim
 Questão 969
 No RoK, qual comandante tem o título "Amado de Toth"?
 R: Tutemés III
+
+Questão 970
+Qual é a meia-vida do lodo-129, um isótopo radioativo produzido por reatores nucleares?
+R: 15,7 milhões de anos
