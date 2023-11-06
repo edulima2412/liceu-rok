@@ -3893,3 +3893,7 @@ R: 15,7 milhões de anos
 Questão 971
 Que planeta no sistema solar está mais perto do Sol?
 R: Mércurio
+
+Questão 972
+Qual país não está na Europa?
+R: Egito
