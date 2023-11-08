@@ -1,4 +1,4 @@
-🆕 Última atualização: 07 de Novembro de 2023
+🆕 Última atualização: 08 de Novembro de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3905,3 +3905,7 @@ R: A Batalha de Azincourt
 Questão 974
 Que recurso é necessário para viajar no Fórum Estadual?
 R: Pontos de Ação
+
+Questão 975
+Em RoK, qual das habilidades de Sun Tzu é melhorada por sua habilidade de especialidade?
+R: Arte da Guerra
