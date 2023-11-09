@@ -3909,3 +3909,7 @@ R: Pontos de Ação
 Questão 975
 Em RoK, qual das habilidades de Sun Tzu é melhorada por sua habilidade de especialidade?
 R: Arte da Guerra
+
+Questão 976
+Qual é a temperatura ideal para assar um frango no barril quente de um canhão otomano?
+R: 200 ºC
