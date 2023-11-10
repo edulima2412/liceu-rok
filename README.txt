@@ -1,4 +1,4 @@
-🆕 Última atualização: 08 de Novembro de 2023
+🆕 Última atualização: 10 de Novembro de 2023
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -3913,3 +3913,7 @@ R: Arte da Guerra
 Questão 976
 Qual é a temperatura ideal para assar um frango no barril quente de um canhão otomano?
 R: 200 ºC
+
+Questão 977
+Os métodos de mitigação da desertificação NÂO incluem?
+R: Subexploração das Águas Subterraneas
