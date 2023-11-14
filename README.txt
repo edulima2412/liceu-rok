@@ -3917,3 +3917,7 @@ R: 200 ºC
 Questão 977
 Os métodos de mitigação da desertificação NÂO incluem?
 R: Subexploração das Águas Subterraneas
+
+Questão 978
+Qual dos seguintes NÂO é uma dança típica?
+R: Sumô
